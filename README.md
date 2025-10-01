@@ -1,1 +1,11 @@
 # mybookmarklets
+
+Theme
+#84BD00
+#00843D
+#00A3E0
+#0033A0
+#FFFFFF
+#676A6E
+#FFD100
+#702082
