@@ -119,3 +119,41 @@ Interactive **Aramco Brand Color Picker** tool for quick reference and copy.
 ---
 
 ## 🧰 File Structure
+
+
+
+---
+
+## 🧾 Credits
+
+Created by **Michael D. Jones**  
+Saudi Aramco — Training & Development / AI & OSINT Integration
+
+Includes:
+- Oxford 1000 Word List © Oxford University Press  
+- NGSL / NAWL © Browne, Culligan & Phillips  
+- Custom Aramco Service List and Color Scheme © Saudi Aramco internal use  
+- OSINT Quick Tool logic © 2025 Michael D. Jones (MIT-style open use)
+
+---
+
+## ⚙️ License
+
+All scripts are free to use for **educational and research purposes**.  
+Redistribution permitted with attribution.
+
+
+
+---
+
+## 💬 Feedback & Contributions
+
+If you discover a bug or want to contribute a new bookmarklet:
+1. Fork the repository.
+2. Add your new tool following the same `<div class="item">` format.
+3. Submit a pull request or open an issue.
+
+---
+
+✨ **Enjoy exploring, highlighting, and investigating — directly from your bookmarks bar!**
+
